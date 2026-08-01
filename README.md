@@ -1,2 +1,4 @@
-# py-text-analyzer-22
+# Py Text Analyzer 22
+
 Simple statistics on input text using Python.
+
